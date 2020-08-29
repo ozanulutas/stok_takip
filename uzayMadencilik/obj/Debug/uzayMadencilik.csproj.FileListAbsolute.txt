@@ -1,0 +1,16 @@
+C:\Users\Ozan\source\repos\uzayMadencilik\uzayMadencilik\obj\Debug\uzayMadencilik.csprojAssemblyReference.cache
+C:\Users\Ozan\source\repos\uzayMadencilik\uzayMadencilik\obj\Debug\uzayMadencilik.Form1.resources
+C:\Users\Ozan\source\repos\uzayMadencilik\uzayMadencilik\obj\Debug\uzayMadencilik.Form2.resources
+C:\Users\Ozan\source\repos\uzayMadencilik\uzayMadencilik\obj\Debug\uzayMadencilik.Properties.Resources.resources
+C:\Users\Ozan\source\repos\uzayMadencilik\uzayMadencilik\obj\Debug\uzayMadencilik.csproj.GenerateResource.cache
+C:\Users\Ozan\source\repos\uzayMadencilik\uzayMadencilik\bin\Debug\uzayMadencilik.exe.config
+C:\Users\Ozan\source\repos\uzayMadencilik\uzayMadencilik\bin\Debug\uzayMadencilik.exe
+C:\Users\Ozan\source\repos\uzayMadencilik\uzayMadencilik\bin\Debug\uzayMadencilik.pdb
+C:\Users\Ozan\source\repos\uzayMadencilik\uzayMadencilik\obj\Debug\uzayMadencilik.exe
+C:\Users\Ozan\source\repos\uzayMadencilik\uzayMadencilik\obj\Debug\uzayMadencilik.pdb
+C:\Users\Ozan\source\repos\uzayMadencilik\uzayMadencilik\obj\Debug\uzayMadencilik.Form3.resources
+C:\Users\Ozan\source\repos\uzayMadencilik\uzayMadencilik\obj\Debug\uzayMadencilik.Form4.resources
+C:\Users\Ozan\source\repos\uzayMadencilik\uzayMadencilik\obj\Debug\uzayMadencilik.Form5.resources
+C:\Users\Ozan\source\repos\uzayMadencilik\uzayMadencilik\obj\Debug\uzayMadencilik.Form6.resources
+C:\Users\Ozan\source\repos\uzayMadencilik\uzayMadencilik\obj\Debug\uzayMadencilik.Form7.resources
+C:\Users\Ozan\source\repos\uzayMadencilik\uzayMadencilik\obj\Debug\uzayMadencilik.Form8.resources
